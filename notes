@@ -1,0 +1,19 @@
+Angular features
+
+1.Component
+
+2.Module
+
+3.Data Binding
+
+    3.1 One way Binding
+
+        3.1.1 Component View
+
+            3.1.1.1 String Interpolation {{Template-Expression}}
+
+            3.1.1.2 Property Binding [Binding Target]="Binding-source"
+
+        3.1.2 View to Component
+
+    3.2 Two way Binding

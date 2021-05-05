@@ -16,4 +16,8 @@ Angular features
 
         3.1.2 View to Component
 
+            3.1.2.1 Event Binding (Event)="source-function call"
+
+            3.1.2.2 Event Binding using argument as $event (event)="source-function ($event)
+
     3.2 Two way Binding
